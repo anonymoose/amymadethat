@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Photo Gallery!</title>
+    <link>file://localhost/Users/Amers/amymadethat2/AmyMadeThat/My_Albums/My_Albums.html</link>
+    <description>Photo Gallery!</description>
+    <item>
+      <title>Necklaces</title>
+      <link>file://localhost/Users/Amers/amymadethat2/AmyMadeThat/My_Albums/Pages/Necklaces.html</link>
+      <guid isPermaLink="false">5b1b04ca-5c49-4437-9a7f-b08968443581</guid>
+    </item>
+    <item>
+      <title>Bracelets</title>
+      <link>file://localhost/Users/Amers/amymadethat2/AmyMadeThat/My_Albums/Pages/Bracelets.html</link>
+      <guid isPermaLink="false">29cd16a5-3d81-4e59-bec4-24749003cda5</guid>
+    </item>
+    <item>
+      <title>Earrings</title>
+      <link>file://localhost/Users/Amers/amymadethat2/AmyMadeThat/My_Albums/Pages/Earrings.html</link>
+      <guid isPermaLink="false">3185f2fc-2bb0-4ab2-8c91-5ddfb70752f1</guid>
+    </item>
+    <item>
+      <title>Rings</title>
+      <link>file://localhost/Users/Amers/amymadethat2/AmyMadeThat/My_Albums/Pages/Rings.html</link>
+      <guid isPermaLink="false">fdaeaed1-e6d1-49fa-8e3e-8725fe0b83df</guid>
+    </item>
+    <item>
+      <title>Hair Accessories</title>
+      <link>file://localhost/Users/Amers/amymadethat2/AmyMadeThat/My_Albums/Pages/Hair_Accessories.html</link>
+      <guid isPermaLink="false">dda06c8b-aeab-42fe-ba76-4d1bf2b8908a</guid>
+    </item>
+    <item>
+      <title>Key Chains</title>
+      <link>file://localhost/Users/Amers/amymadethat2/AmyMadeThat/My_Albums/Pages/Key_Chains.html</link>
+      <guid isPermaLink="false">38addee8-4b51-4793-946e-9d7621b5b70d</guid>
+    </item>
+  </channel>
+</rss>
