@@ -1,4 +1,4 @@
-// Created by iWeb 3.0.4 local-build-20121102
+// Created by iWeb 3.0.4 local-build-20121207
 
 function createMediaStream_id3()
 {return IWCreateMediaCollection("file://localhost/Users/Amers/amymadethat2/AmyMadeThat/My_Albums/My_Albums_files/rss.xml",true,255,["No photos yet","%d photo","%d photos"],["","%d clip","%d clips"]);}
@@ -9,7 +9,7 @@ function layoutMediaGrid_id3(range)
 {createMediaStream_id3().load('file://localhost/Users/Amers/amymadethat2/AmyMadeThat/My_Albums',function(imageStream)
 {if(range==null)
 {range=new IWRange(0,imageStream.length);}
-IWLayoutPhotoGrid('id3',new IWPhotoGridLayout(2,new IWSize(309,232),new IWSize(309,34),new IWSize(309,281),27,27,0,new IWSize(2,2)),new IWEmptyStroke(),imageStream,range,(null),null,1.000000,null,'../Media/slideshow.html','widget9',null,'widget10',{showTitle:true,showMetric:true})});}
+IWLayoutPhotoGrid('id3',new IWPhotoGridLayout(2,new IWSize(309,232),new IWSize(309,32),new IWSize(309,279),27,27,0,new IWSize(2,2)),new IWEmptyStroke(),imageStream,range,(null),null,1.000000,null,'../Media/slideshow.html','widget9',null,'widget10',{showTitle:true,showMetric:true})});}
 function relayoutMediaGrid_id3(notification)
 {var userInfo=notification.userInfo();var range=userInfo['range'];layoutMediaGrid_id3(range);}
 function onStubPage()
